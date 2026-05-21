@@ -29,3 +29,4 @@ A health data analytics project using WHO COVID-19 data to analyse reported case
 
 [View Portfolio Website](https://rumbie3365.github.io/)  
 [View Project Repository](https://github.com/Rumbie3365/covid-19-mortality-analysis-powerbi)
+[LinkedIn Profile](https://www.linkedin.com/in/rumbidzai-mahlanganise-3b34b2203)
